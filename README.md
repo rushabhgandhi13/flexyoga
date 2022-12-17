@@ -35,8 +35,8 @@
  <p>The website is deployed at https://flexyoga.azurewebsites.net/</p>
  
  ## Admin Credentials
- # Username: admin
- # Password: admin@123
+ ##### Username: admin
+ ##### Password: admin@123
  ---
 
  ### Entity Relationship Diagram
