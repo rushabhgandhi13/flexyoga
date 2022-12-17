@@ -82,10 +82,6 @@ Snapshots of the project
 ![img](screenshots/ss3.png)  
 ![img](screenshots/ss4.png)  
 
----
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/kashish1211/GUPSHUP/blob/master/Screenshots/giphchat.gif" />
-
 
 ---
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/rushabhgandhi13">Rushabh Gandhi</a>
