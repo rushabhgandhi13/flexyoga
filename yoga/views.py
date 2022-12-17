@@ -17,7 +17,7 @@ def home(request):
             sus = None
         sform=form.save(commit = False)
         sform.user = request.user
-        input_dt = datetime.today()
+        input_dt = form.cleaned_data['start_date']
         res = calendar.monthrange(input_dt.year, input_dt.month)
         last_day = res[1]
         l_date=datetime(input_dt.year,input_dt.month,last_day)
