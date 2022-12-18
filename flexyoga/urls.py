@@ -18,6 +18,11 @@ from django.urls import include, path
 from django.contrib.auth import views as auth_views
 from users import views as user_views
 
+admin.site.site_header = 'Flex Yoga'                    
+admin.site.index_title = 'Flex Yoga Admin'                 
+admin.site.site_title = 'Flex Yoga'
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('yoga.urls')),
