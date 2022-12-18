@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0512551e-09a6-4e13-8505-5284d2654d20/AppServices/subscriptions/0512551e-09a6-4e13-8505-5284d2654d20/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/flexyoga",
+    "appService.deploySubpath": "."
+}

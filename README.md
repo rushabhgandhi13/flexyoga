@@ -36,6 +36,7 @@
  <p>The website is deployed at https://flexyoga.azurewebsites.net/</p>
  
  ## Admin Credentials
+ <p>Link to the admin site http://flexyoga.azurewebsites.net/admin </p>
  ##### Username: admin
  ##### Password: admin@123
  ---
